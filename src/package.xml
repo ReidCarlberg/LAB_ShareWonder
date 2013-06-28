@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ShareWonder</fullName>
+    <types>
+        <members>WonderDetail_Helper</members>
+        <members>WonderDetail_Helper_Test</members>
+        <members>Wonder_Resource</members>
+        <members>Wonder_Resource_Test</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Share_Wonder</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Wonder__c.Active__c</members>
+        <members>Wonder__c.Description__c</members>
+        <members>Wonder__c.Primary_Image__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Wonder__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Wonder__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Wonder__c-Wonder Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Wonder__c.All</members>
+        <name>ListView</name>
+    </types>
+    <version>25.0</version>
+</Package>
